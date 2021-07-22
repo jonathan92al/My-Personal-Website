@@ -194,6 +194,10 @@ button {
     margin-bottom: 1.5rem;
     text-align: center;
   }
+  
+    .heading {
+    width: 50%;
+  }
 
   .mountain-img {
     width: 80%;
