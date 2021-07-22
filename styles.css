@@ -52,6 +52,10 @@ button {
   display: none;
 }
 
+.dropdown-item {
+  text-align: center;
+}
+
 .top-container {
   background-color: #DEEDF0;
 }
